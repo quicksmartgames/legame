@@ -2,11 +2,11 @@
 
 Effective date: March 26, 2026
 
-Legame ("the App", "we", "us", or "our") respects your privacy. This Privacy Policy explains what information may be processed when you use the Legame mobile application, how it is used, and what choices you have.
+Legame: Better Relationships ("the App", "we", "us", or "our") respects your privacy. This Privacy Policy explains what information may be processed when you use the Legame mobile application, how it is used, and what choices you have.
 
 ## 1. Overview
 
-Legame is designed to provide users with access to app features, premium subscription functionality, and personalized in-app content. We aim to minimize data collection and process only the information necessary for the App to function.
+Legame: Better Relationships is designed to provide users with access to app features, premium subscription functionality, and personalized in-app content. We aim to minimize data collection and process only the information necessary for the App to function.
 
 ## 2. Information We Process
 
